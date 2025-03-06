@@ -7,7 +7,7 @@ You are given a transportation system consisting of **trains and buses**. Each m
 This problem is solved using **Dynamic Programming (DP)** with **O(n) time complexity**.
 
 
-## 🛠️ Languages Used  
+##  Languages Used  
 - **Java**
 - **Python**
 
